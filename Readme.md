@@ -29,12 +29,29 @@ Below is an unverified list of current progress on civics.
 - [x] +3% -> +30% councillor experience gain (per civic councillor level)
 
 ### Meritocracy
+- [x] +10% -> +100% specialist pop resource output
+- [x] +1 -> +10 additional leader trait options
+- [x] +2% -> 20% leader experience gain (per civic councillor level)
 
 ### Citizen Service
+- [x] +2 -> +20 unity from soldiers
+- [x] +15% -> +150% naval capacity
+- [x] 2 -> 2 overlord recruiter jobs from recruitment office (not increasing because the job will be increased)
+- [ ] +10 -> +100 naval capacity from recruitment office
+- [ ] -2 -> -20 upkeep per recruitment office
+- [ ] 1 -> 10 pops affected by overlord recruiter
+- [ ] +3 -> +30 planetary defense armies per overlord recruiter
+- [ ] -5 -> -50 energy per overlord recruiter as upkeep
+- [ ] -2 -> -20 energy per overlord recruiter as upkeep
+- [x] -1.5% -> -15% army upkeep (per civic councillor level)
+- [x] 25 -> 250 army upkeep (per civic councillor level)
 
 ### Technocracy
-- [x] all the basic capitatls jobs
-- [x] habitat capitals jobs
+- [x] +1 -> +10 research alternatives
+- [x] +1 -> +10 politician jobs replaced with science directors (we have taken the generous interpretation that politician jobs that don't actually exist will still be replaced)
+- [ ] +1 -> +10 random expertice traits for each scientist
+- [ ] +10%/+20%/+30% -> +100%/+200%/+300% research from respective fields jobs 
+- [x] -2% -> -20% army upkeep (per civic councillor level)
 
 ### Feudal Realm
 
