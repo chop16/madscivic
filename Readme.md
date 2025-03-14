@@ -244,9 +244,10 @@ Below is an unverified list of current progress on civics.
 
 ### Pharma State
 
-### Precision Cogs
+- [x] all the basic capitatls jobs
+- [ ] habitat capitals jobs
 
-### Pharma State
+### Precision Cogs
 
 ### Knowledge Mentorship
 
