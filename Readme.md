@@ -156,4 +156,183 @@ Below is an unverified list of current progress on civics.
 
 #### Beastmasters
 
+### Megacorp Civics
+
+#### Franchising
+
+#### Trading Posts
+
+#### Media Conglomerate
+
+#### Naval Contractors
+
+#### Free Traders
+
+#### Private Prospectors
+
+#### Gospel of the Masses
+
+#### Ruthless Competition
+
+#### Criminal Heritage
+
+#### Private Military Companies
+
+#### Indentured Assets
+
+#### Brand Loyalty
+
+#### Public Relations Specialists
+
+#### Death Cult
+
+#### Catalytic Processing
+
+#### Corporate Hedonism
+
+#### Trawling Operations
+
+#### Maritime Robotics
+
+#### Mastercraft Inc.
+
+#### Permanent Employment
+
+#### Relentless Industrialists
+
+#### Mutagenic Luxury
+
+#### Luxury Lubrication Pools
+
+#### Refurbishment Division
+
+#### Gigacorp
+
+#### Privatised Exploration
+
+#### Hyperspace Trade
+
+#### Dimensional Enterprise
+
+#### Letters of Marque (note to self: called civic_crusader_spirit_corporate in game files)
+
+#### Pharma State
+
+#### Precision Cogs
+
+#### Pharma State
+
+#### Knowledge Mentorship
+
+#### Worker Cooperative
+
+#### Shadow Corporation
+
+#### Augmentation Bazaars
+
+#### Corporate Protectorate
+
+#### Astrogenesis Technologies
+
+#### Weather Exploitation
+
+#### Storm Influencers
+
+#### Geo-Engineering Inc.
+
+#### Antiquarian Expertise
+
+#### Space Ranchers
+
+### Hive-mind Civics
+
+(todo)
+
+### Machine Civics
+
+(todo)
+
+### Non-pickable (e.g. fallen empire and pre-ftl)
+
+#### Fallen Machine Intelligence (Machine Fallen Empire Civic)
+- [x] Can't construct new ships (unchanged)
+
+#### Custodian Matrix (Machine Fallen Empire Civic)
+- [x] Can't conquer or colonize planets (unchanged)
+
+#### Reactivated Custodian Matrix (Machine Awakened Empire Civic)
+- [x] Can't conquer or colonize planets (unchanged)
+
+#### Final Defense Directives (Machine Awakened Empire Civic)
+- [ ] +10% -> +100% Ship fire rate
+- [ ] +50% -> +500% Energy from jobs
+
+#### Corrupted Defense Directives (Machine Awakened Empire Civic)
+- [ ] +10% -> +100% Ship fire rate
+- [ ] +50% -> +500% Energy from jobs
+
+#### Elder Mind (Hive-Mind Fallen Empire Civic)
+- [ ] -50% -> -500% Monthly Unity
+- [x] Can't construct new ships (unchanged)
+
+#### Undirected Drones (Hive-Mind Fallen Empire Civic)
+- [ ] -50% -> -500% Resources From Jobs
+- [x] Can't conquer or colonize planets (unchanged)
+
+#### Revanchist Fervor (Hive-Mind Awakened Empire Civic)
+- [ ] +1 -> +10 Monthly influence
+
+#### Ancient Caches of Technology (Hive-Mind Awakened Empire Civic)
+- [ ] +50% -> +500% Resources from jobs
+
+#### Lethargic Leadership (Regular Fallen Empire Civic)
+- [ ] -1 -> -10 Monthly influence
+- [x] Can't construct new ships (unchanged)
+
+#### Undirected Drones (Regular Fallen Empire Civic)
+- [ ] -50% -> -500% Resources From Jobs
+- [x] Can't conquer or colonize planets (unchanged)
+
+#### Revanchist Fervor (Regular Awakened Empire Civic)
+- [ ] +1 -> +10 Monthly influence
+
+#### Ancient Caches of Technology (Regular Awakened Empire Civic)
+- [ ] +50% -> +500% Resources from jobs
+
+#### Secret of fire (pre-ftl early regular)
+- [x] (no effect)
+
+#### The wheel (pre-ftl early regular)
+- [x] (no effect)
+
+#### Secret of fire (pre-ftl early hive-mind)
+- [x] (no effect)
+
+#### The wheel (pre-ftl early hive-mind)
+- [x] (no effect)
+
+#### Flat World Theory (pre-ftl mid regular)
+- [x] (no effect)
+
+#### Landed Nobility (pre-ftl mid regular)
+- [x] (no effect)
+
+#### Flat World Theory (pre-ftl mid hive-mind)
+- [x] (no effect)
+
+#### Burgeoning Nodes (pre-ftl mid hive-mind)
+- [x] (no effect)
+
+#### Atmospheric Pollution (pre-ftl late regular)
+- [x] (no effect)
+
+#### Increasing Urbanization (pre-ftl late regular)
+- [x] (no effect)
+
+#### Atmospheric Pollution (pre-ftl late hive-mind)
+- [x] (no effect)
+
+#### Centralized Consciousness (pre-ftl late hive-mind)
+- [x] (no effect)
+
 [Still need to complete rest of todo list]
