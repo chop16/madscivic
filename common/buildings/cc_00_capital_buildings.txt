@@ -1,0 +1,33 @@
+
+# Habitat Central Complex
+building_hab_major_capital = {
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			NOT = { has_planet_flag = toxic_knights_habitat }
+			owner = {
+				has_civic = civic_exalted_priesthood
+				NOR = {
+					has_origin = origin_toxic_knights
+					has_origin = origin_cybernetic_creed
+				}
+			}
+		}
+		modifier = {
+			job_high_priest_add = 10
+		}
+	}
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			NOT = { has_planet_flag = toxic_knights_habitat }
+			owner = {
+				has_civic = civic_exalted_priesthood
+				has_origin = origin_cybernetic_creed # therefore not 'origin_toxic_knights'
+			}
+		}
+		modifier = {
+			job_technophant_add = 10
+		}
+	}
+}

@@ -1,3 +1,27 @@
-fix the script Variables (need to test if they work)
-decide on effects of job preducing civics
-update custom description for civics
+Below is an unverified list of current progress
+
+Corvee System:
+- [x] +10% -> +100% worker Pop Resource Output
+- [x] +15% -> +150% pop Growth From Immigration
+- [x] +2% -> +20% worker pop output (per civic councillor level)
+
+Imperial Cult:
+- [x] +100 -> +1000 edict fund
+- [x] +1 -> +10 priests on home planet
+- [x] +2% -> +20% priest output (per civic councillor level)
+
+Beacon of Liberty:
+- [x] +15% -> +150% monthly unity
+- [x] -15% -> -150% empire size from pops
+- [x] +7% -> +70% egalitarian ethics attraction (per civic councillor level)
+
+Exalted Priesthood:
+- [x] +1 -> +10 unity from priests
+- [x] +1 -> +10 politician jobs replaced with priests (we have taken the generous interpretation that politician jobs that don't actually exist will still be replaced)
+- [x] -2% -> -20% priest upkeep (per civic councillor level)
+
+Philosopher King:
+- [x] +5 -> +50 effective ruler skill
+- [x] +3% -> +30% councillor experience gain (per civic councillor level)
+
+[Still need to complere rest of todo list]
