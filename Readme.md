@@ -34,6 +34,9 @@ Below is an unverified list of current progress on civics.
 
 ### Technocracy
 
+- [x] all the basic capitatls jobs
+- [ ] habitat capitals jobs
+
 ### Feudal Realm
 
 ### Police State
@@ -58,6 +61,8 @@ Below is an unverified list of current progress on civics.
 
 ### Agrarian Idyll
 
+- [x] done, i did it all, the jobs and the house and the other bit
+
 ### Shadow Council
 
 ### Mining Guilds
@@ -72,6 +77,9 @@ Below is an unverified list of current progress on civics.
 
 ### Aristocratic Elite
 
+- [x] all the basic capitatls jobs
+- [ ] habitat capitals jobs
+
 ### Shared Burden
 
 ### Fanatic Purifiers
@@ -81,6 +89,9 @@ Below is an unverified list of current progress on civics.
 ### Byzantine Bureaucracy
 
 ### Merchant Guilds
+
+- [x] all the basic capitatls jobs
+- [ ] habitat capitals jobs
 
 ### Reanimated Armies
 
@@ -223,6 +234,9 @@ Below is an unverified list of current progress on civics.
 ### Knowledge Mentorship
 
 ### Worker Cooperative
+
+- [x] all the basic capitatls jobs
+- [ ] habitat capitals jobs
 
 ### Shadow Corporation
 
