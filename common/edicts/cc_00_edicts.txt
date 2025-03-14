@@ -1,0 +1,29 @@
+inner_focus = {
+	length = @EdictPerpetual
+	icon = "GFX_edict_type_policy"
+
+	resources = {
+		category = edicts
+		cost = {
+			influence = 3
+		}
+		upkeep = {
+			influence = 3
+		}
+	}
+
+	potential = {
+		is_sovereign_guardianship_empire = yes
+	}
+
+	modifier = {
+		country_unity_produces_mult = 1
+	}
+	ai_weight = {
+		weight = 0
+		modifier = {
+			weight = @EdictMedPrio
+			has_monthly_income = { resource = influence value > 3 }
+		}
+	}
+}

@@ -1,0 +1,54 @@
+# Exalted Priesthood Civic
+# +1 High Priest (Normal)
+triggered_planet_modifier = {
+	potential = {
+		exists = owner
+		owner = {
+			is_regular_empire = yes
+			has_civic = civic_exalted_priesthood
+			NOT = { has_origin = origin_cybernetic_creed }
+		}
+	}
+	modifier = {
+		job_high_priest_add = 10
+	}
+}
+
+triggered_desc = {
+	trigger = {
+		exists = owner
+		owner = {
+			is_regular_empire = yes
+			has_civic = civic_exalted_priesthood
+			NOT = { has_origin = origin_cybernetic_creed }
+		}
+	}
+	text = job_high_priest_effect_desc
+}
+
+# +1 Technophant (Cybernetic Creed)
+triggered_planet_modifier = {
+	potential = {
+		exists = owner
+		owner = {
+			is_regular_empire = yes
+			has_civic = civic_exalted_priesthood
+			has_origin = origin_cybernetic_creed
+		}
+	}
+	modifier = {
+		job_technophant_add = 10
+	}
+}
+
+triggered_desc = {
+	trigger = {
+		exists = owner
+		owner = {
+			is_regular_empire = yes
+			has_civic = civic_exalted_priesthood
+			has_origin = origin_cybernetic_creed
+		}
+	}
+	text = job_technophant_effect_desc
+}

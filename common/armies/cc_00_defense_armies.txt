@@ -1,0 +1,67 @@
+fanatic_guardian = {
+	defensive = yes
+	is_pop_spawned = yes
+	health = 25
+	damage = 30
+	morale = 25
+	collateral_damage = 0.0
+	war_exhaustion = 0.0 # No WE from defense armies
+	icon = GFX_army_type_defensive
+
+	resources = {
+		category = armies
+		produces = {
+			trigger = {
+				exists = owner
+				owner = { has_active_tradition = tr_unyielding_resistance_is_frugal }
+			}
+			unity = 0.5
+		}
+	}
+
+	potential = {
+		owner = {
+			is_gestalt = no
+			is_sovereign_guardianship_empire = yes
+		}
+	}
+
+	army_modifier = {
+		army_damage_empire_sprawl_penalty_mult = 1
+	}
+}
+
+machine_fanatic_guardian = {	# Actually gestalt
+	defensive = yes
+	is_pop_spawned = yes
+	health = 22
+	damage = 22
+	has_morale = no
+	morale_damage = 20
+	collateral_damage = 0.0
+	war_exhaustion = 0.0 # No WE from defense armies
+	icon = GFX_army_type_machine_defensive
+	has_species = yes
+
+	potential = {
+		owner = {
+			is_gestalt = yes
+			is_sovereign_guardianship_empire = yes
+		}
+	}
+
+	army_modifier = {
+		army_damage_empire_sprawl_penalty_mult = 1
+	}
+
+	resources = {
+		category = armies
+		produces = {
+			trigger = {
+				exists = owner
+				owner = { has_active_tradition = tr_unyielding_resistance_is_frugal }
+			}
+			unity = 0.5
+		}
+	}
+}

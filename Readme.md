@@ -133,6 +133,26 @@ Below is an unverified list of current progress on civics.
 ### Natural Design
 
 ### Sovereign Guardianship
+[x] - -50% -> -500% empire size from pops
+[x] - -50% -> -500% empire size from districts
+[x] - +100% -> +1000% empire size from planets
+[x] - +150% -> +1500% empire size from systems
+[x] - +100% -> +1000% empire size from branch offices
+[x] - 20% -> 200% diplomatic weight
+[x] - +1 -> +10 unity from soldiers
+[x] - +10% -> +100% monthly unity from inner focus edict
+[x] - +25% -> +250% fire rate for defense platforms and the starbase from reloading bays
+[x] - +2 -> +20 defense platforms from reloading bays
+[x] - 4.50-9.00 -> 45.00-90.00 fanatic guardians base damage (currently multiplying base values by 10, may be subject to change)
+[x] - 4.50-9.00 -> 45.00-90.00 fanatic guardians morale damage (currently multiplying base values by 10, may be subject to change)
+[x] - 500 -> 5000 fanatic guardians health (currently multiplying base values by 10, may be subject to change)
+[x] - 500 -> 5000 fanatic guardians morale (currently multiplying base values by 10, may be subject to change)
+[x] - +10% -> +100% defence army damage (per councillor level)
+[x] - +5% -> +50% starbase hull points (per councillor level)
+[x] - +5% -> +50% starbase armour points (per councillor level)
+[x] - +5% -> +50% shield hit points in friendly systems (per councillor level)
+[x] - +5% -> +50% fire rate in friendly systems (per councillor level)
+[x] - +5% -> +50% accuracy in friendly systems (per councillor level)
 
 ### Guided Sapience
 
@@ -229,6 +249,26 @@ Below is an unverified list of current progress on civics.
 ### Augmentation Bazaars
 
 ### Corporate Protectorate
+[x] - -50% -> -500% empire size from pops
+[x] - -50% -> -500% empire size from districts
+[x] - +100% -> +1000% empire size from planets
+[x] - +150% -> +1500% empire size from systems
+[x] - +100% -> +1000% empire size from branch offices
+[x] - 20% -> 200% diplomatic weight
+[x] - +1 -> +10 unity from soldiers
+[x] - +10% -> +100% monthly unity from inner focus edict
+[x] - +25% -> +250% fire rate for defense platforms and the starbase from reloading bays
+[x] - +2 -> +20 defense platforms from reloading bays
+[x] - 4.50-9.00 -> 45.00-90.00 fanatic guardians base damage (currently multiplying base values by 10, may be subject to change)
+[x] - 4.50-9.00 -> 45.00-90.00 fanatic guardians morale damage (currently multiplying base values by 10, may be subject to change)
+[x] - 500 -> 5000 fanatic guardians health (currently multiplying base values by 10, may be subject to change)
+[x] - 500 -> 5000 fanatic guardians morale (currently multiplying base values by 10, may be subject to change)
+[x] - +10% -> +100% defence army damage (per councillor level)
+[x] - +5% -> +50% starbase hull points (per councillor level)
+[x] - +5% -> +50% starbase armour points (per councillor level)
+[x] - +5% -> +50% shield hit points in friendly systems (per councillor level)
+[x] - +5% -> +50% fire rate in friendly systems (per councillor level)
+[x] - +5% -> +50% accuracy in friendly systems (per councillor level)
 
 ### Astrogenesis Technologies
 
@@ -244,11 +284,51 @@ Below is an unverified list of current progress on civics.
 
 ## Hive-mind Civics
 
-(todo)
+### Guardian Cluster
+[x] - -50% -> -500% empire size from pops
+[x] - -50% -> -500% empire size from districts
+[x] - +100% -> +1000% empire size from planets
+[x] - +150% -> +1500% empire size from systems
+[x] - +100% -> +1000% empire size from branch offices
+[x] - 20% -> 200% diplomatic weight
+[x] - +1 -> +10 unity from soldiers
+[x] - +10% -> +100% monthly unity from inner focus edict
+[x] - +25% -> +250% fire rate for defense platforms and the starbase from reloading bays
+[x] - +2 -> +20 defense platforms from reloading bays
+[x] - 3.30-6.60 -> 33.0-66.0 matrix units base damage (currently multiplying base values by 10, may be subject to change)
+[x] - 6.60-13.20 -> 66.0-132.00 matrix units morale damage (currently multiplying base values by 10, may be subject to change)
+[x] - 440 -> 4400 matrix units health (currently multiplying base values by 10, may be subject to change)
+[x] - Matrix units are immune to morale damage (unchange)
+[x] - +10% -> +100% defence army damage (per councillor level)
+[x] - +5% -> +50% starbase hull points (per councillor level)
+[x] - +5% -> +50% starbase armour points (per councillor level)
+[x] - +5% -> +50% shield hit points in friendly systems (per councillor level)
+[x] - +5% -> +50% fire rate in friendly systems (per councillor level)
+[x] - +5% -> +50% accuracy in friendly systems (per councillor level)
 
 ## Machine Civics
 
-(todo)
+### Guardian Matrix
+[x] - -50% -> -500% empire size from pops
+[x] - -50% -> -500% empire size from districts
+[x] - +100% -> +1000% empire size from planets
+[x] - +150% -> +1500% empire size from systems
+[x] - +100% -> +1000% empire size from branch offices
+[x] - 20% -> 200% diplomatic weight
+[x] - +1 -> +10 unity from soldiers
+[x] - +10% -> +100% monthly unity from inner focus edict
+[x] - +25% -> +250% fire rate for defense platforms and the starbase from reloading bays
+[x] - +2 -> +20 defense platforms from reloading bays
+[x] - 3.30-6.60 -> 33.0-66.0 matrix units base damage (currently multiplying base values by 10, may be subject to change)
+[x] - 6.60-13.20 -> 66.0-132.00 matrix units morale damage (currently multiplying base values by 10, may be subject to change)
+[x] - 440 -> 4400 matrix units health (currently multiplying base values by 10, may be subject to change)
+[x] - Matrix units are immune to morale damage (unchange)
+[x] - +10% -> +100% defence army damage (per councillor level)
+[x] - +5% -> +50% starbase hull points (per councillor level)
+[x] - +5% -> +50% starbase armour points (per councillor level)
+[x] - +5% -> +50% shield hit points in friendly systems (per councillor level)
+[x] - +5% -> +50% fire rate in friendly systems (per councillor level)
+[x] - +5% -> +50% accuracy in friendly systems (per councillor level)
 
 ## Non-pickable (e.g. fallen empire and pre-ftl)
 
