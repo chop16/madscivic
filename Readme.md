@@ -319,6 +319,19 @@ Below is an unverified list of current progress on civics.
 
 ## Machine Civics
 
+### Astro-Mining Drones
+- [x] - +50% -> +500% starbase capacity
+- [x] - -50% -> -500% orbital station build cost
+- [x] - +50% -> +500% mining station output
+- [x] - -50% -> -500% menial drone output
+- [x] - −1 -> -10 Energy from Technicians
+- [x] - −2 -> -20 Minerals from Miners
+- [x] - 5 -> 50 energy produced per astro mining bay
+- [x] - 6 -> 60 additional energy produced per astro mining bay if astral studies network is active
+- [x] - 15% -> 150% mining station output in system per astro mining bay
+- [x] - 10% -> 100% mining station output in system per astro mining bay if astro-mining hub also
+- [ ] - (tooltip for above point still needs to be updated to match change)
+
 ### Guardian Matrix
 - [x] - -50% -> -500% empire size from pops
 - [x] - -50% -> -500% empire size from districts
