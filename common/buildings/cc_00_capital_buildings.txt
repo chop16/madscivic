@@ -31,3 +31,20 @@ building_hab_major_capital = {
 		}
 	}
 }
+
+# Habitat System Complex
+building_hab_system_capital = {
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_exalted_priesthood }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_high_priest_add = 10
+		}
+	}
+}
