@@ -252,8 +252,6 @@ Below is an unverified list of current progress on civics.
 
 ### Precision Cogs
 
-### Pharma State
-
 ### Knowledge Mentorship
 
 ### Worker Cooperative
