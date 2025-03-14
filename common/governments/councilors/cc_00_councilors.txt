@@ -1,3 +1,197 @@
+councilor_ruler_democratic = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		pop_factions_produces_mult = 0.02
+		country_edict_fund_add = 5
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_oligarchic = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		councilor_exp_gain = 0.05
+		country_edict_fund_add = 5
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_dictatorial = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		pop_amenities_usage_mult = -0.02
+		country_edict_fund_add = 10
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_imperial = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		country_power_projection_influence_produces_add = 0.25
+		country_edict_fund_add = 5
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_hive_mind = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		country_unity_produces_mult = 0.02
+		country_edict_fund_add = 5
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_machine_intelligence = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		empire_size_pops_mult = -0.03
+		country_edict_fund_add = 5
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_corporate = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	modifier = {
+		branch_office_value_mult = 0.02
+		country_edict_fund_add = 5
+	}
+	icon = "GFX_icon_councilor_ruler"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_research = {
+	leader_class = { scientist }
+
+	possible = {
+		is_gestalt = no
+	}
+
+	is_leader_possible = {
+		leader_class = scientist
+	}
+	modifier = {
+		all_technology_research_speed = 0.02
+	}
+	icon = "GFX_icon_councilor_research"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+	ai_priority = 1
+	optional = {
+		has_paragon_dlc = yes
+	}
+}
+
+councilor_defense = {
+	leader_class = { commander }
+
+	possible = {
+		is_gestalt = no
+	}
+
+	is_leader_possible = {
+		leader_class = commander
+	}
+	modifier = {
+		ships_upkeep_mult = -0.02
+		armies_upkeep_mult = -0.02
+		starbases_upkeep_mult = -0.02
+	}
+	icon = "GFX_icon_councilor_defense"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+	ai_priority = 1
+	optional = {
+		has_paragon_dlc = yes
+	}
+}
+
+councilor_state = {
+	leader_class = { official }
+
+	possible = {
+		blocks_minister_of_state = no
+	}
+
+	is_leader_possible = {
+		leader_class = official
+	}
+	modifier = {
+		envoy_improve_relations_mult = 0.02
+		envoy_harm_relations_mult = 0.02
+		first_contact_speed_mult = 0.02
+		spy_network_daily_value_mult = 0.02
+	}
+	icon = "GFX_icon_councilor_state"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+	ai_priority = 1
+	optional = {
+		has_paragon_dlc = yes
+	}
+}
+
+councilor_ruler_imperial_cyber = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	icon = "GFX_icon_councilor_ruler"
+	modifier = {
+		planet_jobs_ruler_produces_mult = 0.10
+		country_edict_fund_add = 5
+	}
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_ruler_imperial_synth = {
+	leader_class = { official commander scientist }
+	possible = { always = no }
+	icon = "GFX_icon_councilor_ruler"
+	modifier = {
+		country_unity_produces_mult = 0.02
+		country_edict_fund_add = 5
+	}
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+
+##civics
+
 councilor_agrarian_idyll = {
 	leader_class = { commander official }
 	is_leader_possible = {
