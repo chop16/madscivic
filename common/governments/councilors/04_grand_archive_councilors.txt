@@ -1,0 +1,69 @@
+councilor_galactic_curators = {
+	leader_class = { official scientist }
+	is_leader_possible = {
+		OR = {
+			leader_class = official
+			leader_class = scientist
+		}
+	}
+	civic = civic_galactic_curators
+	custom_tooltip = "councilor_galactic_curators_custom_modifier_desc"
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_corporate_galactic_curators = {
+	leader_class = { official scientist }
+	is_leader_possible = {
+		OR = {
+			leader_class = official
+			leader_class = scientist
+		}
+	}
+	civic = civic_corporate_galactic_curators
+	custom_tooltip_with_modifiers = "councilor_corporate_galactic_curators_custom_modifier_desc"
+	modifier = {
+		country_specimen_selling_cost_mult = 1.0
+	}
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_beastmasters = {
+	leader_class = { commander scientist }
+	is_leader_possible = {
+		OR = {
+			leader_class = commander
+			leader_class = scientist
+		}
+	}
+	civic = civic_beastmasters
+	modifier = {
+		space_fauna_ship_speed_mult = 0.2
+		space_fauna_ship_damage_mult = 0.3
+	}
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
+councilor_corporate_beastmasters = {
+	leader_class = { official scientist }
+	is_leader_possible = {
+		OR = {
+			leader_class = official
+			leader_class = scientist
+		}
+	}
+	civic = civic_corporate_beastmasters
+	modifier = {
+		space_fauna_growth_rate_mult = 0.2
+		space_fauna_culling_reward_mult = 0.3
+	}
+	ai_hiring_weight = {
+		inline_script = councilor_leader_weights
+	}
+}
+
