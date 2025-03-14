@@ -1,159 +1,336 @@
-# x10 Civic Mod
-
-## Todo List
+# x10 Civic Mod - Todo List
 
 Below is an unverified list of current progress on civics.
 
-### Individualist Civics
+## Individualist Civics
 
-##### Corvee System:
+### Corvee System:
 - [x] +10% -> +100% worker Pop Resource Output
 - [x] +15% -> +150% pop Growth From Immigration
 - [x] +2% -> +20% worker pop output (per civic councillor level)
 
-##### Imperial Cult:
+### Imperial Cult:
 - [x] +100 -> +1000 edict fund
 - [x] +1 -> +10 priests on home planet
 - [x] +2% -> +20% priest output (per civic councillor level)
 
-##### Beacon of Liberty:
+### Beacon of Liberty:
 - [x] +15% -> +150% monthly unity
 - [x] -15% -> -150% empire size from pops
 - [x] +7% -> +70% egalitarian ethics attraction (per civic councillor level)
 
-##### Exalted Priesthood:
+### Exalted Priesthood:
 - [x] +1 -> +10 unity from priests
 - [x] +1 -> +10 politician jobs replaced with priests (we have taken the generous interpretation that politician jobs that don't actually exist will still be replaced)
 - [x] -2% -> -20% priest upkeep (per civic councillor level)
 
-##### Philosopher King:
+### Philosopher King:
 - [x] +5 -> +50 effective ruler skill
 - [x] +3% -> +30% councillor experience gain (per civic councillor level)
 
-#### Meritocracy
+### Meritocracy
 
-#### Citizen Service
+### Citizen Service
 
-#### Technocracy
+### Technocracy
 
-#### Feudal Realm
+### Feudal Realm
 
-#### Police State
+### Police State
 
-#### Idealistic Foundation
+### Idealistic Foundation
 
-#### Environmentalist
+### Environmentalist
 
-#### Slaver Guilds
+### Slaver Guilds
 
-#### Inwards Perfection
+### Inwards Perfection
 
-#### Warrior Culture
+### Warrior Culture
 
-#### Distinguished Admiralty
+### Distinguished Admiralty
 
-#### Free Haven
+### Free Haven
 
-#### Cutthroat Politics
+### Cutthroat Politics
 
-#### Corporate Dominion
+### Corporate Dominion
 
-#### Agrarian Idyll
+### Agrarian Idyll
 
-#### Shadow Council
+### Shadow Council
 
-#### Mining Guilds
+### Mining Guilds
 
-#### Parliamentary System
+### Parliamentary System
 
-#### Efficient Bureaucracy
+### Efficient Bureaucracy
 
-#### Nationalistic Zeal
+### Nationalistic Zeal
 
-#### Functional Architecture
+### Functional Architecture
 
-#### Aristocratic Elite
+### Aristocratic Elite
 
-#### Shared Burden
+### Shared Burden
 
-#### Fanatic Purifiers
+### Fanatic Purifiers
 
-#### Barbaric Despoilers
+### Barbaric Despoilers
 
-#### Byzantine Bureaucracy
+### Byzantine Bureaucracy
 
-#### Merchant Guilds
+### Merchant Guilds
 
-#### Reanimated Armies
+### Reanimated Armies
 
-#### Diplomatic Corps
+### Diplomatic Corps
 
-#### Death Cult
+### Death Cult
 
-#### Memorialist
+### Memorialist
 
-#### Catalytic Processing
+### Catalytic Processing
 
-#### Masterful Crafters
+### Masterful Crafters
 
-#### Pleasure Seekers
+### Pleasure Seekers
 
-#### Idyllic Bloom
+### Idyllic Bloom
 
-#### Anglers
+### Anglers
 
-#### Marine Machines
+### Marine Machines
 
-#### Pompous Purists
+### Pompous Purists
 
-#### Toxic Baths
+### Toxic Baths
 
-#### Relentless Industrialists
+### Relentless Industrialists
 
-#### Scavengers
+### Scavengers
 
-#### Ascensionists
+### Ascensionists
 
-#### Memory Vault
+### Memory Vault
 
-#### Crusader Spirit
+### Crusader Spirit
 
-#### Eager Explorers
+### Eager Explorers
 
-#### Hyperspace Speciality
+### Hyperspace Speciality
 
-#### Dimensional Worship
+### Dimensional Worship
 
-#### Heroic Tales
+### Heroic Tales
 
-#### Dystopian Society
+### Dystopian Society
 
-#### Selective Kinship
+### Selective Kinship
 
-#### Dark Consortium
+### Dark Consortium
 
-#### Natural Design
+### Natural Design
 
-#### Sovereign Guardianship
+### Sovereign Guardianship
 
-#### Guided Sapience
+### Guided Sapience
 
-#### Lubrication Tanks (Individualist)
+### Lubrication Tanks (Individualist)
 
-#### Rapid Replicators (Individualist)
+### Rapid Replicators (Individualist)
 
-#### Static Research Analysis (Individualist)
+### Static Research Analysis (Individualist)
 
-#### Warbots (Individualist)
+### Warbots (Individualist)
 
-#### Astrometeorology (Individualist)
+### Astrometeorology (Individualist)
 
-#### Storm Devotion
+### Storm Devotion
 
-#### Planetscapers
+### Planetscapers
 
-#### Galactic Curators
+### Galactic Curators
 
-#### Beastmasters
+### Beastmasters
+
+## Megacorp Civics
+
+### Franchising
+
+### Trading Posts
+
+### Media Conglomerate
+
+### Naval Contractors
+
+### Free Traders
+
+### Private Prospectors
+
+### Gospel of the Masses
+
+### Ruthless Competition
+
+### Criminal Heritage
+
+### Private Military Companies
+
+### Indentured Assets
+
+### Brand Loyalty
+
+### Public Relations Specialists
+
+### Death Cult
+
+### Catalytic Processing
+
+### Corporate Hedonism
+
+### Trawling Operations
+
+### Maritime Robotics
+
+### Mastercraft Inc.
+
+### Permanent Employment
+
+### Relentless Industrialists
+
+### Mutagenic Luxury
+
+### Luxury Lubrication Pools
+
+### Refurbishment Division
+
+### Gigacorp
+
+### Privatised Exploration
+
+### Hyperspace Trade
+
+### Dimensional Enterprise
+
+### Letters of Marque (note to self: called civic_crusader_spirit_corporate in game files)
+
+### Pharma State
+
+### Precision Cogs
+
+### Pharma State
+
+### Knowledge Mentorship
+
+### Worker Cooperative
+
+### Shadow Corporation
+
+### Augmentation Bazaars
+
+### Corporate Protectorate
+
+### Astrogenesis Technologies
+
+### Weather Exploitation
+
+### Storm Influencers
+
+### Geo-Engineering Inc.
+
+### Antiquarian Expertise
+
+### Space Ranchers
+
+## Hive-mind Civics
+
+(todo)
+
+## Machine Civics
+
+(todo)
+
+## Non-pickable (e.g. fallen empire and pre-ftl)
+
+### Fallen Machine Intelligence (Machine Fallen Empire Civic)
+- [x] Can't construct new ships (unchanged)
+
+### Custodian Matrix (Machine Fallen Empire Civic)
+- [x] Can't conquer or colonize planets (unchanged)
+
+### Reactivated Custodian Matrix (Machine Awakened Empire Civic)
+- [x] Can't conquer or colonize planets (unchanged)
+
+### Final Defense Directives (Machine Awakened Empire Civic)
+- [ ] +10% -> +100% Ship fire rate
+- [ ] +50% -> +500% Energy from jobs
+
+### Corrupted Defense Directives (Machine Awakened Empire Civic)
+- [ ] +10% -> +100% Ship fire rate
+- [ ] +50% -> +500% Energy from jobs
+
+### Elder Mind (Hive-Mind Fallen Empire Civic)
+- [ ] -50% -> -500% Monthly Unity
+- [x] Can't construct new ships (unchanged)
+
+### Undirected Drones (Hive-Mind Fallen Empire Civic)
+- [ ] -50% -> -500% Resources From Jobs
+- [x] Can't conquer or colonize planets (unchanged)
+
+### Revanchist Fervor (Hive-Mind Awakened Empire Civic)
+- [ ] +1 -> +10 Monthly influence
+
+### Ancient Caches of Technology (Hive-Mind Awakened Empire Civic)
+- [ ] +50% -> +500% Resources from jobs
+
+### Lethargic Leadership (Regular Fallen Empire Civic)
+- [ ] -1 -> -10 Monthly influence
+- [x] Can't construct new ships (unchanged)
+
+### Undirected Drones (Regular Fallen Empire Civic)
+- [ ] -50% -> -500% Resources From Jobs
+- [x] Can't conquer or colonize planets (unchanged)
+
+### Revanchist Fervor (Regular Awakened Empire Civic)
+- [ ] +1 -> +10 Monthly influence
+
+### Ancient Caches of Technology (Regular Awakened Empire Civic)
+- [ ] +50% -> +500% Resources from jobs
+
+### Secret of fire (pre-ftl early regular)
+- [x] (no effect)
+
+### The wheel (pre-ftl early regular)
+- [x] (no effect)
+
+### Secret of fire (pre-ftl early hive-mind)
+- [x] (no effect)
+
+### The wheel (pre-ftl early hive-mind)
+- [x] (no effect)
+
+### Flat World Theory (pre-ftl mid regular)
+- [x] (no effect)
+
+### Landed Nobility (pre-ftl mid regular)
+- [x] (no effect)
+
+### Flat World Theory (pre-ftl mid hive-mind)
+- [x] (no effect)
+
+### Burgeoning Nodes (pre-ftl mid hive-mind)
+- [x] (no effect)
+
+### Atmospheric Pollution (pre-ftl late regular)
+- [x] (no effect)
+
+### Increasing Urbanization (pre-ftl late regular)
+- [x] (no effect)
+
+### Atmospheric Pollution (pre-ftl late hive-mind)
+- [x] (no effect)
+
+### Centralized Consciousness (pre-ftl late hive-mind)
+- [x] (no effect)
 
 [Still need to complete rest of todo list]
