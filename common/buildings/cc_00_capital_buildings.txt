@@ -30,6 +30,61 @@ building_hab_major_capital = {
 			job_technophant_add = 10
 		}
 	}
+
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_aristocratic_elite }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_noble_add = 10
+		}
+	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_merchant_guilds }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_merchant_add = 10
+		}
+	}
+
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_technocracy }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_head_researcher_add = 10
+		}
+	}
+
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				is_megacorp = yes
+				is_worker_coop_empire = yes
+			}
+		}
+		modifier = {
+			job_steward_add = 30
+		}
+	}
 }
 
 # Habitat System Complex
@@ -45,6 +100,61 @@ building_hab_system_capital = {
 		}
 		modifier = {
 			job_high_priest_add = 10
+		}
+	}
+
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_aristocratic_elite }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_noble_add = 10
+		}
+	}
+	
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_merchant_guilds }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_merchant_add = 10
+		}
+	}
+
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = { has_civic = civic_technocracy }
+			OR = {
+				NOT = { has_planet_flag = toxic_knights_habitat }
+				NOT = { owner = { has_origin = origin_toxic_knights } }
+			}
+		}
+		modifier = {
+			job_head_researcher_add = 10
+		}
+	}
+
+	triggered_planet_modifier = {
+		potential = {
+			exists = owner
+			owner = {
+				is_megacorp = yes
+				is_worker_coop_empire = yes
+			}
+		}
+		modifier = {
+			job_steward_add = 30
 		}
 	}
 }
