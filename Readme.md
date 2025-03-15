@@ -9,7 +9,9 @@ Below is an unverified list of current progress on civics.
 - A few considerations for some complications that come up with jobs and buildings
   - If a civic provides a unique job and a unique building/holding that produces those unique jobs (e.g. rangers lodge), consider only modifying the number of jobs provided, not the job output, in order to avoid multiplying the affect twice
   - If the job is an upgraded version of another job (e.g. angler from farmer, pearl diver from artisan, death chronicler from culture worker), then only multiply the difference between the two jobs by 10
-    - This may cause some strange edge cases, such as the pearl diver having -3 consumer goods production. Consider these on a case by case basis.
+    - The same goes for buildings that are upgrades
+    - This may cause some strange edge cases, such as jobs with negative production. Consider these on a case by case basis.
+- In most cases, avoid multiplying upkeep
 
 ## Civics - Individualist
 
@@ -202,8 +204,22 @@ Below is an unverified list of current progress on civics.
 ### Idyllic Bloom
 
 ### Anglers
+- [x] -50 -> -500 agricultural district cost on wet climates
+- [x] 8 -> 26 food from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 2 -> 20 trade value from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 6 -> 6 consumer goods from pearl divers (0 more than artisan -> 0 more than artisan)
+- [x] 2 -> 20 trade value from pearl divers (2 more than farmer -> 20 more than farmer)
+- [x] +0.3 -> +3 food from anglers (per civic councillor level)
+- [x] +0.2 -> +2 consumer goods from pearl divers (per civic councillor level)
 
 ### Marine Machines
+- [x] -50 -> -500 agricultural district cost on wet climates
+- [x] 8 -> 26 food from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 2 -> 20 trade value from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 6 -> 6 consumer goods from pearl divers (0 more than artisan -> 0 more than artisan)
+- [x] 2 -> 20 trade value from pearl divers (2 more than farmer -> 20 more than farmer)
+- [x] +0.3 -> +3 food from anglers (per civic councillor level)
+- [x] +0.2 -> +2 consumer goods from pearl divers (per civic councillor level)
 
 ### Pompous Purists
 
@@ -312,8 +328,22 @@ Below is an unverified list of current progress on civics.
 ### Corporate Hedonism
 
 ### Trawling Operations
+- [x] -50 -> -500 agricultural district cost on wet climates
+- [x] 8 -> 26 food from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 2 -> 20 trade value from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 6 -> 6 consumer goods from pearl divers (0 more than artisan -> 0 more than artisan)
+- [x] 2 -> 20 trade value from pearl divers (2 more than farmer -> 20 more than farmer)
+- [x] +0.3 -> +3 food from anglers (per civic councillor level)
+- [x] +0.2 -> +2 consumer goods from pearl divers (per civic councillor level)
 
 ### Maritime Robotics
+- [x] -50 -> -500 agricultural district cost on wet climates
+- [x] 8 -> 26 food from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 2 -> 20 trade value from anglers (2 more than farmer -> 20 more than farmer)
+- [x] 6 -> 6 consumer goods from pearl divers (0 more than artisan -> 0 more than artisan)
+- [x] 2 -> 20 trade value from pearl divers (2 more than farmer -> 20 more than farmer)
+- [x] +0.3 -> +3 food from anglers (per civic councillor level)
+- [x] +0.2 -> +2 consumer goods from pearl divers (per civic councillor level)
 
 ### Mastercraft Inc.
 

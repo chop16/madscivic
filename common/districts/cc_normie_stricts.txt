@@ -537,7 +537,7 @@ district_farming = {
 					planet = { has_climate = wet }
 				}
 			}
-			minerals = -50
+			minerals = -500
 		}
 		upkeep = {
 			energy = 1
