@@ -2,7 +2,16 @@
 
 Below is an unverified list of current progress on civics.
 
-## Individualist Civics
+## General Principles
+- For a lot of the flat bonuses we can just multiply by 10, so that is straightforward
+- We should try not to concern ourselves too much with balance, the civics are supposed to be broken
+  - That said, if a x10 bonus on one of the negative parts of a civic would make the civic worse than the base game version, just leave it as is instead
+- A few considerations for some complications that come up with jobs and buildings
+  - If a civic provides a unique job and a unique building/holding that produces those unique jobs (e.g. rangers lodge), consider only modifying the number of jobs provided, not the job output, in order to avoid multiplying the affect twice
+  - If the job is an upgraded version of another job (e.g. angler from farmer, pearl diver from artisan, death chronicler from culture worker), then only multiply the difference between the two jobs by 10
+    - This may cause some strange edge cases, such as the pearl diver having -3 consumer goods production. Consider these on a case by case basis.
+
+## Civics - Individualist
 
 ### Corvee System:
 - [x] +10% -> +100% worker Pop Resource Output
@@ -36,13 +45,13 @@ Below is an unverified list of current progress on civics.
 ### Citizen Service
 - [x] +2 -> +20 unity from soldiers
 - [x] +15% -> +150% naval capacity
-- [x] +2 -> +20 overlord recruiter jobs from recruitment office (not increasing because the job will be increased)
+- [x] +2 -> +20 overlord recruiter jobs from recruitment office
 - [ ] +10 -> +100 naval capacity from recruitment office
 - [ ] -2 -> -2 upkeep per recruitment office (not changing because it is upkeep)
-- [ ] 1 -> 1 pops affected by overlord recruiter
-- [ ] +3 -> +3 planetary defense armies per overlord recruiter
-- [ ] -5 -> -50 energy per overlord recruiter as upkeep
-- [ ] -2 -> -20 energy per overlord recruiter as upkeep
+- [ ] 1 -> 1 pops affected by overlord recruiter (not increasing because the job numbers will be increased)
+- [ ] +3 -> +3 planetary defense armies per overlord recruiter (not increasing because the job numbers will be increased)
+- [ ] -5 -> -5 energy per overlord recruiter as upkeep (not increasing because the job numbers will be increased)
+- [ ] -2 -> -2 energy per overlord recruiter as upkeep (not increasing because the job numbers will be increased)
 - [x] -1.5% -> -15% army upkeep (per civic councillor level)
 - [x] 25 -> 250 army upkeep (per civic councillor level)
 
@@ -70,22 +79,22 @@ Below is an unverified list of current progress on civics.
 
 ### Environmentalist
 - [x] -20% -> -200% pop consumer goods upkeep
-- [x] +1 -> +1 ranger jobs from ranger lodge (not increasing because the job will be increased)
-- [x] +1 -> +1 ranger jobs per natural blocker from ranger lodge building (not increasing because the job will be increased)
-- [x] +1 -> +1 ranger jobs per natural blocker from ranger lodge building with paradise initiative active (not increasing because the job will be increased)
+- [ ] +1 -> +10 ranger jobs from ranger lodge
+- [ ] +1 -> +10 ranger jobs per natural blocker from ranger lodge building
+- [ ] +1 -> +10 ranger jobs per natural blocker from ranger lodge building with paradise initiative active
 - [ ] +2 -> +20 unity per natural blocker from ranger lodge building
 - [ ] +1 -> +10 unity per natural blocker from ranger lodge building with intergrated gardens active
 - [ ] +1 -> +10 unity per natural blocker from ranger lodge building with environmental control board active
 - [ ] +1 -> +10 unity per natural blocker from ranger lodge building with paradise initiative active
 - [ ] 1 -> 10 nature preserve blockers from ranger lodge building (not sure if I should actually increase this as it will be quite harmful)
 - [x] -2 -> -2 energy upkeep from ranger lodge building (not increasing because it is upkeep)
-- [ ] +3 -> +30 amenities from rangers
-- [ ] +2 -> +20 society research from rangers
-- [ ] +0.5/+1 -> +5/+10 of specific resources from rangers for each blocker on a planet
-- [x] +1 -> +1 overlord ranger jobs from ranger lodge holding (not increasing because the job will be increased)
+- [ ] +3 -> +3 amenities from rangers (not increasing because the job numbers will be increased)
+- [ ] +2 -> +2 society research from rangers (not increasing because the job numbers will be increased)
+- [ ] +0.5/+1 -> +0.5/+1 of specific resources from rangers for each blocker on a planet (not increasing because the job numbers will be increased)
+- [x] +1 -> +10 overlord ranger jobs from ranger lodge holding 
 - [ ] 1 -> 10 nature preserve blockers from ranger lodge holding (not sure if I should actually increase this as it will be quite harmful)
 - [x] -2 -> -2 energy upkeep from ranger lodge holding (not increasing because it is upkeep)
-- [ ] +10 -> +100 unity to overlord from overlord rangers
+- [ ] +10 -> +10 unity to overlord from overlord rangers
 - [ ] -10% -> -100% consumer goods upkeep to suject from overlord rangers
 - [ ] +0.5/+1 -> +5/+10 of specific resources from rangers for each blocker on a planet
 - [x] -1.5% -> -15% pop amenities usage (per civic councillor level)
@@ -268,7 +277,7 @@ Below is an unverified list of current progress on civics.
 
 ### Beastmasters
 
-## Megacorp Civics
+## Civics - Individualist Megacorp
 
 ### Franchising
 
@@ -379,7 +388,7 @@ Below is an unverified list of current progress on civics.
 
 ### Space Ranchers
 
-## Hive-mind Civics
+## Civics - Hive-mind
 
 ### Guardian Cluster
 - [x] - -50% -> -500% empire size from pops
@@ -403,7 +412,7 @@ Below is an unverified list of current progress on civics.
 - [x] - +5% -> +50% fire rate in friendly systems (per councillor level)
 - [x] - +5% -> +50% accuracy in friendly systems (per councillor level)
 
-## Machine Civics
+## Civics - Machine Intelligence
 
 ### Astro-Mining Drones
 - [x] - +50% -> +500% starbase capacity
@@ -440,7 +449,7 @@ Below is an unverified list of current progress on civics.
 - [x] - +5% -> +50% fire rate in friendly systems (per councillor level)
 - [x] - +5% -> +50% accuracy in friendly systems (per councillor level)
 
-## Non-pickable (e.g. fallen empire and pre-ftl)
+## Civics - Non-pickable (e.g. fallen empire and pre-ftl)
 
 ### Fallen Machine Intelligence (Machine Fallen Empire Civic)
 - [x] Can't construct new ships (unchanged)
