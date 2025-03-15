@@ -36,11 +36,11 @@ Below is an unverified list of current progress on civics.
 ### Citizen Service
 - [x] +2 -> +20 unity from soldiers
 - [x] +15% -> +150% naval capacity
-- [x] 2 -> 2 overlord recruiter jobs from recruitment office (not increasing because the job will be increased)
+- [x] +2 -> +20 overlord recruiter jobs from recruitment office (not increasing because the job will be increased)
 - [ ] +10 -> +100 naval capacity from recruitment office
-- [ ] -2 -> -20 upkeep per recruitment office
-- [ ] 1 -> 10 pops affected by overlord recruiter
-- [ ] +3 -> +30 planetary defense armies per overlord recruiter
+- [ ] -2 -> -2 upkeep per recruitment office (not changing because it is upkeep)
+- [ ] 1 -> 1 pops affected by overlord recruiter
+- [ ] +3 -> +3 planetary defense armies per overlord recruiter
 - [ ] -5 -> -50 energy per overlord recruiter as upkeep
 - [ ] -2 -> -20 energy per overlord recruiter as upkeep
 - [x] -1.5% -> -15% army upkeep (per civic councillor level)
@@ -53,31 +53,101 @@ Below is an unverified list of current progress on civics.
 - [ ] +10%/+20%/+30% -> +100%/+200%/+300% research from respective fields jobs 
 - [x] -2% -> -20% army upkeep (per civic councillor level)
 
-### Feudal Realm
+### Feudal Society
+- [*] +5% -> +50% naval capacity contribution
+- [*] +25 -> +250 subjugation acceptance
+- [*] +1 -> +10 subjects exempt from divided patronage
+- [*] +5 -> +50 unity from subjects (per civic councillor level)
 
 ### Police State
+- [*] +5 -> +50 stability
+- [*] +1 -> +10 unity from enforcers and telepaths
+- [*] +5% -> +50% governing ethics attraction (per civic councillor level)
 
 ### Idealistic Foundation
+- [*] +10% -> +100% Citizen pop happiness
+- [*] -1.5% -> -15% pop amenities usage (per civic councillor level)
 
 ### Environmentalist
+- [*] -20% -> -200% pop consumer goods upkeep
+- [*] +1 -> +1 ranger jobs from ranger lodge (not increasing because the job will be increased)
+- [*] +1 -> +1 ranger jobs per natural blocker from ranger lodge building (not increasing because the job will be increased)
+- [*] +1 -> +1 ranger jobs per natural blocker from ranger lodge building with paradise initiative active (not increasing because the job will be increased)
+- [ ] +2 -> +20 unity per natural blocker from ranger lodge building
+- [ ] +1 -> +10 unity per natural blocker from ranger lodge building with intergrated gardens active
+- [ ] +1 -> +10 unity per natural blocker from ranger lodge building with environmental control board active
+- [ ] +1 -> +10 unity per natural blocker from ranger lodge building with paradise initiative active
+- [ ] 1 -> 10 nature preserve blockers from ranger lodge building (not sure if I should actually increase this as it will be quite harmful)
+- [*] -2 -> -2 energy upkeep from ranger lodge building (not increasing because it is upkeep)
+- [ ] +3 -> +30 amenities from rangers
+- [ ] +2 -> +20 society research from rangers
+- [ ] +0.5/+1 -> +5/+10 of specific resources from rangers for each blocker on a planet
+- [*] +1 -> +1 overlord ranger jobs from ranger lodge holding (not increasing because the job will be increased)
+- [ ] 1 -> 10 nature preserve blockers from ranger lodge holding (not sure if I should actually increase this as it will be quite harmful)
+- [*] -2 -> -2 energy upkeep from ranger lodge holding (not increasing because it is upkeep)
+- [ ] +10 -> +100 unity to overlord from overlord rangers
+- [ ] -10% -> -100% consumer goods upkeep to suject from overlord rangers
+- [ ] +0.5/+1 -> +5/+10 of specific resources from rangers for each blocker on a planet
+- [*] -1.5% -> -15% pop amenities usage (per civic councillor level)
 
 ### Slaver Guilds
+- [*] +10% -> +100% slave pop resource output
+- [*] 35% -> 35% enslaved pop ratio (unchanged)
+- [*] +2% -> +20% slave happiness (per civic councillor level)
 
-### Inwards Perfection
+### Inward Perfection
+- [*] +20% -> +200% monthly unity
+- [*] +10% -> +100% pop growth or assembly speed
+- [*] +5% -> +50% citizen pop happiness
+- [*] +50 -> +500 edict fund
+- [*] +1 -> +10 encryption
+- [*] -1 -> -10 codebreaking
+- [*] -1 -> -10 available envoys
+- [*] +3% -> +30% defense platform damage (per civic councillor level)
+- [*] +3% -> +30% defense platform hull points (per civic councillor level)
 
 ### Warrior Culture
+- [*] +20% -> +200% army damage
+- [*] -10% -> -100% war exhaustion gain
+- [*] +1 -> +10 mercenary enclave capacity
+- [*] +10% -> +100% duelist output (per civic councillor level)
 
 ### Distinguished Admiralty
+- [*] +2 -> +20 commander starting level
+- [*] +20% -> +200% commander experience gain
+- [*] +10% -> +100% ship fire rate
+- [*] +10 -> +100 fleet command limit
+- [*] +1% -> +10% naval capacity (per civic councillor level)
+- [*] +50 -> +500 ship starting experience (per civic councillor level)
 
 ### Free Haven
+- [*] +15% -> +150% pop growth from immigration
+- [*] +50% -> +500% immigration pull
+- [*] +5% -> +50% worker happiness
+- [*] -3% -> -30% empire size from districts (per civic councillor level)
+- [*] -3% -> -30% district upkeep (per civic councillor level)
 
 ### Cutthroat Politics
+- [*] -20% -> -200% edict upkeep
+- [*] +1 -> +10 codebreaking
+- [*] +3% -> +30% faction resource output
 
 ### Corporate Dominion
+- [*] +1 -> +10 external leader pool size
+- [*] 500 -> 500 energy cost for private colony ships (unchanged) 
+- [*] +2% -> +20% trade value (per civic councillor level)
 
 ### Agrarian Idyll
-
-- [x] done, i did it all, the jobs and the house and the other bit
+- [*] +1 -> +10 housing from generator districts
+- [*] +1 -> +10 housing from mining districts
+- [*] +1 -> +10 housing from agriculture districts
+- [*] +1 -> +10 additional housing from agriculture districts with agrarian utopias tech
+- [*] -1 -> -10 housing from city districts
+- [*] -5 -> -50 housing from city segments
+- [*] +2 -> +20 amenities from farmers (or equivalent)
+- [*] +1 -> +10 building slot per every 4 agriculture districts
+- 
+- [*] +5% -> +50% farmer output (per civic councillor level)
 
 ### Shadow Council
 
