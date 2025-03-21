@@ -198,6 +198,12 @@ Below is an unverified list of current progress on civics.
 ### Catalytic Processing
 
 ### Masterful Crafters
+- [x] +1 -> +10 building slot per every 3 industrial districts
+- [x] +7 -> +16 consumer goods from artificers (1 more than artisan -> 10 more than artisan)
+- [x] 2 -> 20 trade value from artificers (2 more than artisan -> 20 more than artisan)
+- [x] +3.5 -> +8 consumer goods from penal artificers (0.5 more than artisan -> 5 more than artisan)
+- [x] 1 -> 10 trade value from penal artificers (1 more than artisan -> 10 more than artisan)
+- [x] +1% -> +10% armour hitpoints (per civic councillor level)
 
 ### Pleasure Seekers
 
